@@ -1,2 +1,1 @@
-# hmjack2008.github.io
-github pages
+# My personal blog and study notes.
