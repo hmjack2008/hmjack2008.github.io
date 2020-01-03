@@ -32,7 +32,7 @@ git commit -m "说明文字"
 
 然后在git命令行窗口下输入以下代码：
 ```
-git remote add origin https://github.com/varenyzc/DGUTAirMouse.git
+git remote add origin https://github.com/[your_name]/DGUTAirMouse.git
 
 git push -u origin master
 ```
@@ -48,7 +48,7 @@ git push -u origin master
 
 输入完就推送到github上啦。大功告成！在其他平台如gitlab、gogs等开源网站操作类似，只需修改HTTPS地址即可。
 
-也可以follow一下我的github，电子专业转行cs：[https://github.com/varenyzc](https://github.com/varenyzc)
+也可以follow一下我的github，电子专业转行cs：[https://github.com/hmjack2008](https://github.com/hmjack2008)
 
 enjoy yourself！
 

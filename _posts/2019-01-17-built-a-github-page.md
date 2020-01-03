@@ -26,7 +26,7 @@ git clone https://github.com/showzeng/Minimalism.git
 
 **3.再把刚才自己新建的repo clone下来：**
 ```
-git clone http://github.com/varenyzc/varenyzc.github.io.git
+git clone http://github.com/hmjack2008/hmjack2008.github.io.git
 ```
 
 **4.接着把主题文件夹中除了.git文件夹全部复制到自己仓库所在的文件夹**
@@ -44,7 +44,7 @@ git push -u origin master
 
 至此完成博客的搭建。过点时间访问xxx.github.io就可以访问到你的博客啦~Enjoy yourself！
 
-欢迎访问[我的博客](https://varenyzc.github.io)
+欢迎访问[我的博客](https://hmjack2008.github.io)
 ---
 
 
